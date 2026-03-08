@@ -1,5 +1,29 @@
 
 {
+
+  "app_overview": {
+    "project_name": "Aristo Music Player Pro",
+    "description": "A modern music player web app that lets users play music offline with simple interactive features and a seamless experience.",
+    "features": [
+      "play and pause music with a single click.",
+      "Create and manage playlists.",
+      "Simplified enhanced music listening experience.",
+      "Plays music from local files without needing an internet connection."
+    ],
+    "tips": [
+      "Press J key to enhance music sound.",
+      "Press J key again to stop music enhancement.",
+      "Press Ctrl + M to mute sound.",
+      "Press Ctrl + M again to unmute sound.",            
+      "Use the playlist feature to organize your music collection.",
+      "Enjoy your music offline without any interruptions."
+    ],
+    "faq": {
+      "Is there a free version?": "Yes, we offer a free version with no ads. Aristo Music Player Pro is completely free to use.",
+      "Can I download songs for offline listening?": "Yes, users can download songs to listen offline."
+    },
+
+  
   "playlist_management": {
     "description": "Create and manage playlists to organize your songs.",
     "steps": [
@@ -13,8 +37,8 @@
       "Use drag-and-drop to reorder songs quickly."
     ],
     "faq": {
-      "Can I share my playlist?": "Yes, click the 'Share' button and choose your method.",
-      "How do I delete a playlist?": "Select the playlist, then click 'Delete'."
+      "Can I share my playlist?": "No, sharing playlists is not currently supported.",
+      "How do I delete a playlist?": "Aristo Music Player Pro does not currently support playlist deletion, but you can remove all songs from a playlist Pressing Ctrl + R to refresh."
     }
   },
   "sound_quality_settings": {
@@ -33,4 +57,4 @@
       "Does it affect battery life?": "High audio effects may slightly reduce battery life."
     }
   }
-}
+}}
