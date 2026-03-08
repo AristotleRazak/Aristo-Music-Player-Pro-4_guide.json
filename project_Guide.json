@@ -1,29 +1,5 @@
 
 {
-
-  "Aristo Music Player Pro 4.0": {
-    "project_name": "Aristo Music Player Pro 4.0",
-    "description": "A modern music player web app that lets users play music offline with simple interactive features and a seamless experience.",
-    "features": [
-      "play and pause music with a single click.",
-      "Create and manage playlists.",
-      "Simplified enhanced music listening experience.",
-      "Plays music from local files without needing an internet connection."
-    ],
-    "tips": [
-      "Press J key to enhance music sound.",
-      "Press J key again to stop music enhancement.",
-      "Press Ctrl + M to mute sound.",
-      "Press Ctrl + M again to unmute sound.",            
-      "Use the playlist feature to organize your music collection.",
-      "Enjoy your music offline without any interruptions."
-    ],
-    "faq": {
-      "Is there a free version?": "Yes, we offer a free version with no ads. Aristo Music Player Pro is completely free to use.",
-      "Can I download songs for offline listening?": "Yes, users can download songs to listen offline."
-    },
-
-  
   "playlist_management": {
     "description": "Create and manage playlists to organize your songs.",
     "steps": [
@@ -58,3 +34,4 @@
     }
   }
 }}
+
