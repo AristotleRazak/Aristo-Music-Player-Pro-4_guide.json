@@ -1,11 +1,9 @@
-
 {
-
-  "Aristo Music Player Pro 4.0": {
+  "aristo_music_player_pro_4_0": {
     "project_name": "Aristo Music Player Pro 4.0",
     "description": "A modern music player web app that lets users play music offline with simple interactive features and a seamless experience.",
     "features": [
-      "play and pause music with a single click.",
+      "Play and pause music with a single click.",
       "Create and manage playlists.",
       "Simplified enhanced music listening experience.",
       "Plays music from local files without needing an internet connection."
@@ -14,17 +12,21 @@
       "Press J key to enhance music sound.",
       "Press J key again to stop music enhancement.",
       "Press Ctrl + M to mute sound.",
-      "Press Ctrl + M again to unmute sound.",            
+      "Press Ctrl + M again to unmute sound.",
       "Use the playlist feature to organize your music collection.",
       "Enjoy your music offline without any interruptions."
     ],
-    "faq": {
-      "Is there a free version?": "Yes, we offer a free version with no ads. Aristo Music Player Pro is completely free to use.",
-      "Can I download songs for offline listening?": "Yes, users can download songs to listen offline."
-    }
+    "faq": [
+      {
+        "question": "Is there a free version?",
+        "answer": "Yes, we offer a free version with no ads. Aristo Music Player Pro is completely free to use."
+      },
+      {
+        "question": "Can I download songs for offline listening?",
+        "answer": "Yes, users can download songs to listen offline."
+      }
+    ]
   },
-
-  
   "playlist_management": {
     "description": "Create and manage playlists to organize your songs.",
     "steps": [
@@ -37,10 +39,16 @@
       "Name playlists by mood or activity for easy searching.",
       "Use drag-and-drop to reorder songs quickly."
     ],
-    "faq": {
-      "Can I share my playlist?": "No, sharing playlists is not currently supported.",
-      "How do I delete a playlist?": "Aristo Music Player Pro does not currently support playlist deletion, but you can remove all songs from a playlist Pressing Ctrl + R to refresh."
-    }
+    "faq": [
+      {
+        "question": "Can I share my playlist?",
+        "answer": "No, sharing playlists is not currently supported."
+      },
+      {
+        "question": "How do I delete a playlist?",
+        "answer": "Aristo Music Player Pro does not currently support playlist deletion, but you can remove all songs from a playlist. Press Ctrl + R to refresh."
+      }
+    ]
   },
   "sound_quality_settings": {
     "description": "Adjust equalizer and audio settings for better sound.",
@@ -53,9 +61,15 @@
       "Experiment with presets to find the best sound for your headphones.",
       "Avoid extreme bass settings to prevent distortion."
     ],
-    "faq": {
-      "Can I save my custom settings?": "Yes, click 'Save Preset' after adjusting.",
-      "Does it affect battery life?": "High audio effects may slightly reduce battery life."
-    }
+    "faq": [
+      {
+        "question": "Can I save my custom settings?",
+        "answer": "Yes, click 'Save Preset' after adjusting."
+      },
+      {
+        "question": "Does it affect battery life?",
+        "answer": "High audio effects may slightly reduce battery life."
+      }
+    ]
   }
 }
