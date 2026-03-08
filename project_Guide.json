@@ -1,0 +1,36 @@
+
+{
+  "playlist_management": {
+    "description": "Create and manage playlists to organize your songs.",
+    "steps": [
+      "Open the app and go to the 'Playlists' tab.",
+      "Click 'New Playlist'.",
+      "Add songs by dragging or selecting them from your library.",
+      "Click 'Save' to finish."
+    ],
+    "tips": [
+      "Name playlists by mood or activity for easy searching.",
+      "Use drag-and-drop to reorder songs quickly."
+    ],
+    "faq": {
+      "Can I share my playlist?": "Yes, click the 'Share' button and choose your method.",
+      "How do I delete a playlist?": "Select the playlist, then click 'Delete'."
+    }
+  },
+  "sound_quality_settings": {
+    "description": "Adjust equalizer and audio settings for better sound.",
+    "steps": [
+      "Go to 'Settings' > 'Audio'.",
+      "Choose a preset or customize the equalizer.",
+      "Enable features like Bass Boost or 3D Sound if desired."
+    ],
+    "tips": [
+      "Experiment with presets to find the best sound for your headphones.",
+      "Avoid extreme bass settings to prevent distortion."
+    ],
+    "faq": {
+      "Can I save my custom settings?": "Yes, click 'Save Preset' after adjusting.",
+      "Does it affect battery life?": "High audio effects may slightly reduce battery life."
+    }
+  }
+}
