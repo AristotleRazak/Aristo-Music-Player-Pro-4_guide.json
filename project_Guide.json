@@ -1,9 +1,9 @@
 
 {
 
-  "app_overview": {
-    "project_name": "Aristo Music Player Pro 4",
-    "Aristo Music Player Pro 4": "A modern music player web app that lets users play music offline with simple interactive features and a seamless experience.",
+  "Aristo Music Player Pro 4.0": {
+    "project_name": "Aristo Music Player Pro 4.0",
+    "description": "A modern music player web app that lets users play music offline with simple interactive features and a seamless experience.",
     "features": [
       "play and pause music with a single click.",
       "Create and manage playlists.",
@@ -58,4 +58,3 @@
     }
   }
 }}
-
